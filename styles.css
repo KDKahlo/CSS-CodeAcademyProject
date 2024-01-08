@@ -21,10 +21,13 @@ h2 {
     color: blue
 }
 .Heading{
+    position: relative;
+    text-align: center;
+}
+.Damoto-title{
     font-family: Helvetica;
     font-size: 50px;
     font-weight: bold;
     text-align: center;
     color: khaki;
-
 }
