@@ -1,11 +1,24 @@
 
-
-h2 {
+h1, h2, h3, p {
     font-family: Helvetica;
+}
+
+.Heading {
+    background-image:url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg");
+    text-align: center;
+    font-size: 80px;
+    color: khaki;    
+}
+h2 {
     font-size: 32px;
     font-weight: bold;
     color: white;
 }
+.different-color {
+    font-weight: bold;
+    color: blue
+}
+
 .brush-header{
     background-color: mediumspringgreen;
 }
@@ -15,20 +28,6 @@ h2 {
 .paint-header{
     background-color: skyblue;
 }
-.different-color {
-    font-family: Helvetica;
-    font-weight: bold;
-    color: blue
-}
-.Heading{
-    background-image:url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg");
-    font-family: Helvetica;
-    font-size: 100px;
-    font-weight: bold;
-    text-align: center;
-    color: khaki;
-   
-    
-    
-}
+
+
 
