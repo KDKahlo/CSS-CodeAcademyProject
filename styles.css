@@ -21,16 +21,14 @@ h2 {
     color: blue
 }
 .Heading{
-    position: relative;
-    text-align: center;
-    
-}
-.Damoto-title{
+    background-image:url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg");
     font-family: Helvetica;
-    font-size: 50px;
+    font-size: 100px;
     font-weight: bold;
     text-align: center;
     color: khaki;
-    position: absolute;
-    transform: (-50%, -50%);
+   
+    
+    
 }
+
