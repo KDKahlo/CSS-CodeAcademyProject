@@ -9,4 +9,22 @@ h2 {
 .brush-header{
     background-color: mediumspringgreen;
 }
-.
+.frame-header{
+    background-color:lightcoral;
+}
+.paint-header{
+    background-color: skyblue;
+}
+.different-color {
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue
+}
+.Heading{
+    font-family: Helvetica;
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+    color: khaki;
+
+}
