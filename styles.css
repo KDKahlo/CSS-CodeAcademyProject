@@ -23,6 +23,7 @@ h2 {
 .Heading{
     position: relative;
     text-align: center;
+    
 }
 .Damoto-title{
     font-family: Helvetica;
@@ -30,4 +31,6 @@ h2 {
     font-weight: bold;
     text-align: center;
     color: khaki;
+    position: absolute;
+    transform: (-50%, -50%);
 }
